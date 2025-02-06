@@ -1,16 +1,17 @@
-## Hi there 👋
+## 大家好，欢迎来到我的 GitHub 主页！
 
-<!--
-**JLQusername/JLQusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 我是 **杯九换功臣**，目前在同济大学就读软件工程专业的大三学生。  
+🔧 我专注于 **Java 后端开发**，并且对编程充满热情，始终保持学习的态度。  
+🚀 我对技术的探索永无止境，希望通过不断学习、实践，提升自己的开发能力。
 
-Here are some ideas to get you started:
+### 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **编程语言**：Java、Python、C++
+- **后端框架**：Spring Boot、Spring Cloud
+- **数据库**：MySQL、MongoDB
+- **工具与技术**：Git
+- **操作系统**：Linux
+
+### 希望可以和大家一起进步！
+
+个人网站：www.flowertea.site
